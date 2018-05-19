@@ -11,3 +11,4 @@ new line 1
 new line 2
 new line 3
 Line number four!!
+Test for the automatic merge

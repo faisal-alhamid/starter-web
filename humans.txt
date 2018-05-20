@@ -3,7 +3,7 @@
 
 # TEAM
 	Faisal
-	test for rebase section
+	test for rebase section from myfeature section
     <name> -- <role> -- <twitter>
 
 # THANKS

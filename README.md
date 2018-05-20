@@ -12,3 +12,4 @@ new line 2
 new line 3
 Line number four!!
 Test for the automatic merge
+test for rebase example
